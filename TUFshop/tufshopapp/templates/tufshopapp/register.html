@@ -1,0 +1,31 @@
+{% extends 'tufshopapp/base.html' %}
+{% load static %}
+{% block content %}
+<body>
+    <h2 style="color: rgb(191, 146, 33);">Sign Up</h2>
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+
+    <form method="POST">
+        {% csrf_token %}
+        <label style="color: rgb(191, 146, 33);">Username: </label>
+        <input class="form-control" type="text" name="username" required><br><br>
+
+        <label style="color: rgb(191, 146, 33);">Email: </label>
+        <input class="form-control" type="email" name="email" required><br><br>
+
+        <label style="color: rgb(191, 146, 33);">Password: </label>
+        <input class="form-control" type="password" name="password1" required><br><br>
+
+        <label style="color: rgb(191, 146, 33);">Password(again): </label>
+        <input class="form-control" type="password" name="password2" required><br><br>
+
+        <button class="btn btn-outline-success" type="submit">Sign Up</button>
+    </form>
+
+    <p>Do you already have an account? <a class="btn btn-outline-success" href="{% url 'login' %}">Login</a></p>
+</body>
+</html>
+{% endblock %}
