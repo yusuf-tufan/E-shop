@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - ✅ User registration and login system
-- ✅ Product listing and detail pages
+- ✅ Product listing page
 - ✅ Cart and order management
 - ✅ Product/order management with the admin panel
 - ✅ Payment integration (sample payment)
