@@ -12,7 +12,7 @@
         <h5 class="card-title">{{ product.name }}</h5>
         <p class="card-text product-description">{{ product.description }}</p>
         <div class="mt-auto">
-          <button data-product="{{ product.id }}" data-action="add" class="btn btn-outline-primary add-btn update-cart">Add to Cart</button>
+          <button data-product="{{ product.id }}" data-action="add" class="btn btn-outline-info add-btn update-cart">Add to Cart</button>
           <h4  style="display: inline-block; float:right;" class="float-right d-inline-block">${{ product.price|floatformat:2 }}</h4>
         </div>
       </div>

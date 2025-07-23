@@ -97,7 +97,7 @@ from django.http import HttpResponse
 
 def updateItem(request):
     if not request.user.is_authenticated:
-        return HttpResponse("Giriş yapmalısınız", status=401)
+        return HttpResponse("You must log in", status=401)
     
     data=json.loads(request.body)
     productId=data['productId']
