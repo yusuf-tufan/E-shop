@@ -20,12 +20,11 @@
 ---
 ## 🖥️ Screenshots
 ## ℹ️Products and prices are for Examples.<br>
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/df3084ba-32fa-4201-b827-9fb12da3e6a7" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c21c09da-8dbc-4f93-9d6d-4e224a9ea039" /> <br>
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/799b43ef-66f8-482c-b6a2-7df01f567620" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/5b3aafbe-2a16-4dab-816a-a25d5a2f2799" /> <br>
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/eb7883c7-b675-4828-be7f-f52ea18598a1" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/87096b2d-9159-44a9-be5e-cfd88a339d1c" />
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/df3084ba-32fa-4201-b827-9fb12da3e6a7" />
+ <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/799b43ef-66f8-482c-b6a2-7df01f567620" /> <br>
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5b3aafbe-2a16-4dab-816a-a25d5a2f2799" /> 
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/eb7883c7-b675-4828-be7f-f52ea18598a1" /><br>
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/87096b2d-9159-44a9-be5e-cfd88a339d1c" />
 
 
 ---
